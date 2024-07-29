@@ -1,0 +1,6 @@
+# To set permission for this
+chmod +x user_shell.sh
+
+# To run the script
+
+ user_shell.sh
